@@ -1,6 +1,6 @@
 # movies_app
 
-A new Flutter project.
+A Flutter Project changing movies for actors
 
 ## Getting Started
 
